@@ -1,0 +1,16 @@
+UNIT NAME | LINES | ITEMS
+main.py | 79 | 5 
+|-->def get_path(file_name): | 13 | 0 
+|-->def load_excel_data(headers, file): | 27 | 0 
+|-->def print_relarive_sizes(rs): | 8 | 0 
+|-->def write_relarive_sizes(rs, tab, file): | 16 | 0 
+|-->def main(argv=None): | 9 | 0 
+
+RelativeSize.py | 39 | 1 
+|-->class RelativeSize: | 38 | 6 
+|-->|-->def __init__(self, arr = None): | 6 | 0 
+|-->|-->def calc_relative_sizes(self): | 10 | 0 
+|-->|-->def antilog(self, x): | 2 | 0 
+|-->|-->def sum_variance(self, arr, avg): | 5 | 0 
+|-->|-->def sum_ln(self, arr): | 5 | 0 
+|-->|-->def set_vals(self, arr): | 10 | 0 

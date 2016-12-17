@@ -1,0 +1,11 @@
+UNIT NAME | LINES | ITEMS
+assignment1.py | 77 | 2 
+|-->class Node(object): | 4 | 1 
+|-->|-->def __init__(self, value=None, next=None): | 3 | 0 
+|-->class LinkedList(object): | 39 | 6 
+|-->|-->def __init__(self): | 2 | 0 
+|-->|-->def add(self, value): | 3 | 0 
+|-->|-->def remove(self, value): | 15 | 0 
+|-->|-->def get_prior(self): | 2 | 0 
+|-->|-->def get_next_by_value(self, value): | 9 | 0 
+|-->|-->def __getitem__(self, index): | 7 | 0 

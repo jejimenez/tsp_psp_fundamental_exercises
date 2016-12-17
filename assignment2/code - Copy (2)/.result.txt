@@ -1,0 +1,19 @@
+
+lines_of_code_counter.py | 89 
+|-->class LinesOfCodeCounter: | 86 
+|-->|-->class Unit(): | 2 
+|-->|-->class Type(): | 4 
+|-->|-->def __init__(self): | 4 
+|-->|-->def get_modules_of_path(self, path=None): | 14 
+|-->|-->def inspect_module(self, unit): | 11 
+|-->|-->def inspect_modules(self, units): | 5 
+|-->|-->def count_lines_in_array(self, content, unit, content_row=0): | 46 
+
+main.py | 25 
+|-->def units_to_string(units, total, tabs=''): | 10 
+
+test.py | 40 
+|-->def ok(): | 2 
+
+
+TOTAL: 154
